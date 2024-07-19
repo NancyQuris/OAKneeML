@@ -1,0 +1,10 @@
+grad-cam==1.5.0
+imgaug==0.4.0
+numpy==1.23.0
+pandas==1.5.3
+Pillow==9.4.0
+torch==2.0.0
+torchvision==0.15.0
+scikit-learn==1.2.2
+shap==0.41.0
+xgboost==2.0.3
