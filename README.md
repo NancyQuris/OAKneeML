@@ -1,7 +1,7 @@
 # Identifying who are unlikely to benefit from total knee arthroplasty: a machine learning approach
 
 This repository contains the code that we used to train and explain the models for total knee arthroplasty outcome prediction. 
-The paper is published in *npj Digital Medicine* 7. The published paper can be found at https://www.nature.com/articles/s41746-024-01265-8. 
+The full-text paper can be found at https://www.nature.com/articles/s41746-024-01265-8. 
 
 [Xiaodi Liu](https://github.com/dillys10) also contributes to the development of the code. 
 
