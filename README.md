@@ -45,6 +45,6 @@ To explain learned model, we use `shapley_value.py` and `gradcam.py`.
 
 ## Citation 
 If you find our paper useful, please cite it as
-Liu, X., Liu, Y., Lee, M.L. et al. Identifying who are unlikely to benefit from total knee arthroplasty using machine learning models. npj Digit. Med. 7, 266 (2024). https://doi.org/10.1038/s41746-024-01265-8
 ```
+Liu, X., Liu, Y., Lee, M.L. et al. Identifying who are unlikely to benefit from total knee arthroplasty using machine learning models. npj Digit. Med. 7, 266 (2024). https://doi.org/10.1038/s41746-024-01265-8
 ```
